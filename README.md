@@ -36,18 +36,18 @@ These results show strong in-domain performance and also highlight the difficult
 
 ```text
 HandWritting_Recognizer/
-|-- CV_Assgn_2_MNIST.ipynb
-|-- CV_Assgn_2_SVHN.ipynb
+|-- MNIST.ipynb
+|-- SVHN.ipynb
 |-- images/
 |   |-- mnist/
 |   |-- svhn/
 |   `-- cross/
-`-- cv_assgn2 (1).pdf
+`-- documentation.pdf
 ```
 
 ## Notebooks
 
-### `CV_Assgn_2_MNIST.ipynb`
+### `MNIST.ipynb`
 
 Includes:
 
@@ -61,7 +61,7 @@ Includes:
 - cross-dataset evaluation on SVHN
 - imbalance analysis
 
-### `CV_Assgn_2_SVHN.ipynb`
+### `SVHN.ipynb`
 
 Includes:
 
